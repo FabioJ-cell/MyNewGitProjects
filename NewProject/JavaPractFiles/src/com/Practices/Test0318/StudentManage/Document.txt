@@ -1,0 +1,12 @@
+学生管理系统二开
+实现步骤：
+1.编写实体类Students.java
+2。在管理文件StusManagement.java中编写主界面并测试
+3.设计curd功能：
+    1.添加学生addStuFunction();
+    2.删除学生deleteStuFunction();
+    3.修改信息updateStuFunction();
+    4.查看信息queryStuFunction();
+    5.退出程序exitStuFunction();
+4.为了方便实现操作重复的按学号查询，编写独立方法queryStuNum();
+5.运行测试，
